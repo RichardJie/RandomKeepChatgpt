@@ -9,5 +9,5 @@ Refresh the ChatGPT page for you at regular intervals of 20-40 seconds simulatin
 3. Select New Script, copy the code in and save
 4. Just refresh the ChatGPT page once
 
-##What problem to solve
+## What problem to solve
 Recent frequent errors
