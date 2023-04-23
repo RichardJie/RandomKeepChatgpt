@@ -43,7 +43,7 @@
   // 创建要插入的DIV
   const newDiv = document.createElement("div");
   newDiv.className = 'badge'
-  newDiv.innerHTML = `<style>${style}</style><p>Vigor is running</p><p>Your ChatGPT will remain active.</p>`;
+  newDiv.innerHTML = `<style>${style}</style><p>RandomKeepChatgpt is running</p><p>Your ChatGPT will remain active.</p>`;
 
   // 将新的DIV插入到父元素中
   parentElement.insertBefore(newDiv, parentElement.firstChild);
