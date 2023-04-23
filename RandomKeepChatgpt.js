@@ -47,7 +47,7 @@
 
   if (location.hostname === "chat.openai.com") {
     const newP = document.createElement("p");
-    newP.textContent = `最近刷新时间：${new Date().toLocaleTimeString()}`;
+    newP.textContent = `Recently Refresh time：${new Date().toLocaleTimeString()}`;
 
     newDiv.appendChild(newP);
 
